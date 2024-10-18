@@ -15,7 +15,8 @@
 
 # Books 
 (Pyomo — Optimization Modeling in Python)[https://link.springer.com/book/10.1007/978-3-319-58821-6]
-
+(A Modeling Language
+for Mathematical Programming)[https://ampl.com/wp-content/uploads/BOOK.pdf]
 
 
 
