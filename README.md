@@ -1,4 +1,5 @@
 # Nonlinear Programming
+The purpose of this repository is to organize resources to learn nonlinear programming.
 
 # Table of Contents
 
